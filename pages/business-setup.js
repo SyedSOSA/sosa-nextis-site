@@ -1,0 +1,1 @@
+export default function Page(){ return (<div><h1>Business-Setup</h1></div>) }\n

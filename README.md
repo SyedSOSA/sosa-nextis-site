@@ -1,2 +1,1 @@
-# sosa-nextis-site
-“SOSA Next.js site: career services, job marketplace, recruiters, business setup, testimonials, blog, contact.”
+# SOSA Next.js Site\n\nDeploy-ready project. See README inside for details.\n

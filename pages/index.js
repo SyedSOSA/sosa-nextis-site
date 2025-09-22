@@ -1,0 +1,1 @@
+export default function Home(){ return (<div><h1>SOSA Home</h1></div>) }\n
