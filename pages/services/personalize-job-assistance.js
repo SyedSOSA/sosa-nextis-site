@@ -1,0 +1,1 @@
+export default function Page(){return (<div><header className='header'><div className='container'><h1>Personalized Job Assistance</h1></div></header><main className='container'><p>One-on-one job search support and application management.</p></main></div>)}

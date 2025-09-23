@@ -1,1 +1,1 @@
-export default function Page(){ return (<div><h1>Business-Setup</h1></div>) }\n
+export default function BusinessSetup(){return (<div><header className='header'><div className='container'><h1>Business Setup</h1></div></header><main className='container'><p>Assistance with setting up your business in UAE.</p></main></div>)}

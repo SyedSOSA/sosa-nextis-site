@@ -1,0 +1,1 @@
+export default function Terms(){return (<div><header className='header'><div className='container'><h1>Terms & Conditions</h1></div></header><main className='container'><p>Update this with your terms.</p></main></div>)}

@@ -1,0 +1,1 @@
+import jobs from '../data/jobs.json';export default function Jobs(){return (<div><header className='header'><div className='container'><h1>Jobs Marketplace</h1></div></header><main className='container'>{jobs.map(j=>(<div key={j.id} className='card'><h3>{j.title} — {j.company}</h3><p>{j.location}</p><p><a className='btn' href={j.apply}>Apply</a></p></div>))}</main></div>)}

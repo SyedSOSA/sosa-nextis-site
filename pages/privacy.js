@@ -1,0 +1,1 @@
+export default function Privacy(){return (<div><header className='header'><div className='container'><h1>Privacy Policy</h1></div></header><main className='container'><p>Update this with your policy text.</p></main></div>)}

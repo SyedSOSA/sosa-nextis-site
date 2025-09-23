@@ -1,0 +1,1 @@
+export default function Page(){return (<div><header className='header'><div className='container'><h1>Job Application Support</h1></div></header><main className='container'><p>End-to-end application assistance to increase interview responses.</p></main></div>)}

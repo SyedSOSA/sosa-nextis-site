@@ -1,0 +1,1 @@
+export default function Page(){return (<div><header className='header'><div className='container'><h1>Dubai Interview Prep</h1></div></header><main className='container'><p>Interview coaching focused on UAE market and employer expectations.</p></main></div>)}

@@ -1,1 +1,1 @@
-export default function Page(){ return (<div><h1>Login</h1></div>) }\n
+export default function Login(){return (<div><header className='header'><div className='container'><h1>Login / Register</h1></div></header><main className='container'><p>Placeholder login UI.</p></main></div>)}

@@ -1,1 +1,1 @@
-export default function Page(){ return (<div><h1>About</h1></div>) }\n
+export default function About(){return (<div><header className='header'><div className='container'><h1>About SOSA</h1></div></header><main className='container'><h2>Our Mission</h2><p>We help professionals land jobs in UAE & India through resume writing, interview prep and strategic applications.</p></main></div>)}

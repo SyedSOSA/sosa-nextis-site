@@ -1,0 +1,1 @@
+export default function Page(){return (<div><header className='header'><div className='container'><h1>30-Day Job Search Strategy</h1></div></header><main className='container'><p>Actionable 30-day strategy to get interview-ready and apply smartly.</p></main></div>)}

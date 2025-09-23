@@ -1,0 +1,1 @@
+export default function Refund(){return (<div><header className='header'><div className='container'><h1>Refund Policy</h1></div></header><main className='container'><p>Update this with your refund policy.</p></main></div>)}

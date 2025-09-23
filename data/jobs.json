@@ -1,1 +1,16 @@
-[{"id": 1, "title": "Frontend Developer", "company": "TechCorp", "location": "Dubai", "apply": "mailto:syed@sosaconsult.com"}]
+[
+  {
+    "id": 1,
+    "title": "Customer Service Representative",
+    "company": "Cloudstaff",
+    "location": "Remote",
+    "apply": "mailto:syed@sosaconsult.com"
+  },
+  {
+    "id": 2,
+    "title": "Ecommerce Shipping Assistant",
+    "company": "ACG Advisory, Inc",
+    "location": "Bengaluru",
+    "apply": "mailto:syed@sosaconsult.com"
+  }
+]

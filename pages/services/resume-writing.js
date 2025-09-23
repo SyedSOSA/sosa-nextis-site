@@ -1,0 +1,1 @@
+export default function Page(){return (<div><header className='header'><div className='container'><h1>Resume Writing</h1></div></header><main className='container'><p>Professional resume writing services tailored to industry and role.</p></main></div>)}

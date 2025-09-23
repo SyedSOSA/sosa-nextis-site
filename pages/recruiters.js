@@ -1,1 +1,1 @@
-export default function Page(){ return (<div><h1>Recruiters</h1></div>) }\n
+export default function Recruiters(){return (<div><header className='header'><div className='container'><h1>Recruiters</h1></div></header><main className='container'><p>Information for recruiters and employers.</p></main></div>)}

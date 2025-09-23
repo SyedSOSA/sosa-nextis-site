@@ -1,1 +1,1 @@
-# SOSA Next.js Site\n\nDeploy-ready project. See README inside for details.\n
+SOSA Next.js Starter Project\n\nRun: npm install && npm run dev\n
